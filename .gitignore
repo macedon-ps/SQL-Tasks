@@ -7,7 +7,7 @@ bin/
 obj/
 
 # Tasks files
-Task/
+Tasks/
 
 # DACPAC files
 *.dacpac
@@ -31,5 +31,6 @@ Task/
 # Backup files
 *.bak
 *.log
+
 
 
